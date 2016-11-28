@@ -14,7 +14,7 @@
 }
 
     .advancedSearchBox.active {
-        border-color: #66afe9;
+        border-color: #41a5d5;
     }
 
     .advancedSearchBox .search-icon {
@@ -32,7 +32,7 @@
         display: inline-block;
         height: 24px;
         margin: 0 7px 0 0;
-        background-color: #5bc0de;
+        background-color: #41a5d5;
         padding: 0 5px;
         border-radius: 4px;
         -webkit-border-radius: 4px;
