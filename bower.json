@@ -1,5 +1,5 @@
 {
-  "name": "angular-advanced-searchbox",
+  "name": "telmediq-angular-advanced-searchbox",
   "version": "3.0.0",
   "homepage": "https://github.com/dnauck/angular-advanced-searchbox",
   "authors": [
@@ -7,13 +7,14 @@
   ],
   "description": "A directive for AngularJS providing a advanced visual search box",
   "main": [
-    "dist/angular-advanced-searchbox.min.css",
-    "dist/angular-advanced-searchbox-tpls.js"
+    "src/angular-advanced-searchbox.css",
+    "src/angular-advanced-searchbox.js"
   ],
   "keywords": [
     "search",
     "angular",
-    "bootstrap"
+    "bootstrap",
+    "telmediq"
   ],
   "license": "MIT",
   "ignore": [
